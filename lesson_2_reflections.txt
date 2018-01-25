@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When intializing a new repository git creates a secret folder that stores commits. 
+So that you can store commits!
