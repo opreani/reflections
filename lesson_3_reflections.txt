@@ -5,3 +5,9 @@ When you want to keep track more clearly of your changes and also if you dont wa
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Not every change has to be pulled to the computer as you know best what to push and pull rather than leaving it on auto
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+You may want to fork a repository so that you have acces to it and add your own commits, you may clone another repostory so that you
+have it on your computer and work with the files and you may use branches when you are making changes that you don't want to
+commit to the master branch so you use another branch for testing.
