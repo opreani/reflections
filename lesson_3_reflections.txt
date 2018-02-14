@@ -15,3 +15,9 @@ commit to the master branch so you use another branch for testing.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 You can see what changes were made even if you go ofline 
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I would asked for what was changed and then compare the two files together. It would be easier because I would keep in touch more with
+the colaborator. By using git, you dont have to activly be in touch with the colaborator because all changes and all commits 
+pushed to the working branches on git hub will always show the changes. Ha Ha !
