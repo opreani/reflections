@@ -21,3 +21,13 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 I would asked for what was changed and then compare the two files together. It would be easier because I would keep in touch more with
 the colaborator. By using git, you dont have to activly be in touch with the colaborator because all changes and all commits 
 pushed to the working branches on git hub will always show the changes. Ha Ha !
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When you are very sure of your change you can push it directly to the master branch but if you are not sure on what you are
+changing than it is a good idea to create a separate branch and push you changes there so that other colaborators can check
+the changes. This is a good option only when working with colaborators as you dont need to do this if you are working alone.
+Also the files you are changing may also be changed by other colaborators on the same line of code so maybe you wish to keep
+both changes so thats why is good to use a separate branch and not push it directly. But if you ask me this option is only good
+when you are not sure of what your commiting cause if youre sure than you can push it directly to master and if someone else makes a 
+change that he is also sure about he can also push it to master, eitherway there are pros and cons. And Im finaly done !   
