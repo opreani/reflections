@@ -11,3 +11,7 @@ Describe the differences between forks, clones, and branches. When would you use
 You may want to fork a repository so that you have acces to it and add your own commits, you may clone another repostory so that you
 have it on your computer and work with the files and you may use branches when you are making changes that you don't want to
 commit to the master branch so you use another branch for testing.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+You can see what changes were made even if you go ofline 
